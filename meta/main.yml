@@ -2,16 +2,16 @@
 
 galaxy_info:
   author: groks
-  description: extra yum package repositories: rpmfusion-free, rpmfusion-nonfree, and livna
+  description: yum repositories for rpmfusion-free, rpmfusion-nonfree, livna
   license: BSD
   min_ansible_version: 1.3
 
   platforms:
-    - name: Fedora
-      versions:
-        - all
+  - name: Fedora
+    versions:
+    - all
 
   categories:
-    - packaging
+  - packaging
 
 dependencies: []
