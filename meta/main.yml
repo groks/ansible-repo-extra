@@ -1,0 +1,17 @@
+---
+
+galaxy_info:
+  author: groks
+  description: extra yum package repositories: rpmfusion-free, rpmfusion-nonfree, and livna
+  license: BSD
+  min_ansible_version: 1.3
+
+  platforms:
+    - name: Fedora
+      versions:
+        - all
+
+  categories:
+    - packaging
+
+dependencies: []
