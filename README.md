@@ -1,7 +1,7 @@
 repo-extra
 ========
 
-An [ansible role](https://galaxy.ansibleworks.com/) to install the
+An [ansible role](https://galaxy.ansibleworks.com/list#/roles/202) to install the
 [rpmfusion](http://rpmfusion.org) free, nonfree, and
 [livna](http://rpm.livna.org/) yum repositories which contain extra software
 packages [not available](https://fedoraproject.org/wiki/Forbidden_items) in the
